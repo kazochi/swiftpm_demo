@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GrubTest",
+        "repositoryURL": "git@github.com:GrubhubProd/grubtest-ios.git",
+        "state": {
+          "branch": "ko_swiftpm2",
+          "revision": "a010a65ef6d8e2f81a5e192103efe263f39e90d2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
